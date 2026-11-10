@@ -43,6 +43,28 @@ When there is **no internet** (or you simply do not want an IP messenger), the m
 
 The other person does the same with your number and the **same code**.
 
+### How to exchange the secret word (joke protocol)
+
+1. Call your friend.
+2. Ask them to say **10 random words**.
+3. When you hear the word you want as the passphrase (e.g. *vacuum cleaner* / *пылесос*), pretend you misheard:  
+   «Sorry, did you say *пылесос*?»
+4. They answer: «Yes, *пылесос*.»
+5. Congrats — you both locked in the code word without saying «our password is…».
+
+*(This is a joke. Exchange the code however you like: in person, on a call, on a napkin, carrier pigeon…)*
+
+### Как обменяться секретным словом (шутка)
+
+1. Позвоните другу.
+2. Попросите назвать **10 случайных слов**.
+3. На том слове, которое хотите сделать паролем (например *пылесос*), переспросите:  
+   «Не расслышал, ты сказал *пылесос*?»
+4. Он: «Да, *пылесос*.»
+5. Оба зафиксировали кодовое слово, не произнося фразу «наш пароль — …».
+
+*(Это шутка. Обменяться кодом можно как угодно.)*
+
 ---
 
 ## Build APK
