@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Private Msg</string>
+    <string name="new_chat">Новый чат</string>
+    <string name="enter_code">Введите код для расшифровки</string>
+    <string name="code_hint">Код (пароль)</string>
+    <string name="save">Сохранить</string>
+    <string name="message_hint">Сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="select_contact">Выберите контакт</string>
+    <string name="permission_required">Нужны разрешения: SMS и контакты</string>
+    <string name="permission_rationale_title">Доступ к данным</string>
+    <string name="permission_rationale_message">Приложению нужен доступ к SMS (отправка и приём сообщений) и к контактам (выбор получателя). Сообщения шифруются на устройстве.\n\nЕсли после нажатия «Разрешить» доступ не даётся, включите разрешения вручную: Настройки → Приложения → Private Msg → Разрешения.</string>
+    <string name="permission_allow">Разрешить</string>
+    <string name="permission_deny">Отмена</string>
+</resources>
